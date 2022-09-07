@@ -15,8 +15,11 @@
         
         <!-- Pages -->
         <div>
-            <a class="btn btn-primary" href="indexHeader.php"  role="button">Index header Page </a> 
             <a class="btn btn-primary" href="index.php"  role="button">Index Page </a> 
+            <a class="btn btn-primary" href="indexHeader.php"  role="button">Index Header Page </a> 
             <a class="btn btn-primary" href="handlepost.php"  role="button">Handle Post Page </a> 
 
         </div>
+
+
+        
