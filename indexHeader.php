@@ -12,6 +12,37 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
 
         <title>Darren Fisher HW 2 Ecommerce</title>
+
+
+        <style>
+            #divOne {
+                background-color: azure;
+                height: 75px;
+                font-size: 50px;
+                line-height: 100px;
+                float: left;
+                width: 100%;
+            }
+            #divTwo{
+                background-color: lightskyblue;
+                height: 100px;
+                text-align: center;
+                line-height: 100px;
+                font-size: 50px;
+                float: left;
+                width: 100%;
+            }
+            #divThree{
+                background-color: lightblue;
+                height: 200px;
+                text-align: center;
+                line-height: 200px;
+                float: left;
+                width: 100%;
+            }
+        </style>
+
+
     </head>
 
     <body>
