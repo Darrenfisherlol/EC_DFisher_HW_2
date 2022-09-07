@@ -1,3 +1,8 @@
+<!--
+    This page is JUST A HEADER.
+        - as in, it is shown on the top of each page 
+
+-->
 <!doctype html>
 <html lang="en">
     <head>
@@ -10,15 +15,10 @@
     </head>
 
     <body>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
         
         <!-- Pages -->
         <div>
             <a class="btn btn-primary" href="index.php"  role="button">Index Page </a> 
-            <a class="btn btn-primary" href="indexHeader.php"  role="button">Index Header Page </a> 
             <a class="btn btn-primary" href="handlepost.php"  role="button">Handle Post Page </a> 
 
         </div>
-
-
-        
