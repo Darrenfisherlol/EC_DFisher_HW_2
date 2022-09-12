@@ -6,12 +6,11 @@
        
     <div class="divOne">
             <div class="divTwo">
-                Div Two
             </div>
             <div class="divTwo">
                 <div>       
                     Hi <?php echo $_POST["name"]; ?><br>
-                    Your school is: <?php echo $_POST["School"]; ?>
+                    Your school is: <?php echo $_POST["School"]; ?><br>
                     Your favorite class is: <?php echo $_POST["FavoriteClass"]; ?>            
                 </div>
             </div>
