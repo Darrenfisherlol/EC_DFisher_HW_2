@@ -1,7 +1,7 @@
 <?php require_once("indexHeader.php")?>
 
 
-    
+
         <!-- Post echo php -->
        
     <div class="divOne">
@@ -15,15 +15,7 @@
                     Your favorite class is: <?php echo $_POST["FavoriteClass"]; ?>            
                 </div>
             </div>
-            <div class="divTwo">
-                div 2 class three 3
-            </div>
-            <div class="divThree">
-                1 1
-            </div>
-            <div class="divThree">
-                2 2
-            </div>
+           
         </div>
 
 

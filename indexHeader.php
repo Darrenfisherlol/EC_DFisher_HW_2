@@ -14,34 +14,6 @@
         <title>Darren Fisher HW 2 Ecommerce</title>
 
 
-        <style>
-            #divOne {
-                background-color: azure;
-                height: 75px;
-                font-size: 50px;
-                line-height: 100px;
-                float: left;
-                width: 100%;
-            }
-            #divTwo{
-                background-color: lightskyblue;
-                height: 100px;
-                text-align: center;
-                line-height: 100px;
-                font-size: 50px;
-                float: left;
-                width: 100%;
-            }
-            #divThree{
-                background-color: lightblue;
-                height: 200px;
-                text-align: center;
-                line-height: 200px;
-                float: left;
-                width: 100%;
-            }
-        </style>
-
     </head>
 
     <body>
@@ -49,13 +21,11 @@
 
         <!-- Pages -->
         <div>
-            <a class="btn btn-primary" href="index.php"  role="button">Index Page </a> 
-            <a class="btn btn-primary" href="handlepost.php"  role="button">Handle Post Page </a> 
-
+            <a class="btn btn-primary" href="index.php"  role="button">Home Page </a> 
+            <a class="btn btn-primary" href="handlepost.php"  role="button">Post Page </a> 
+            
         </div>
-        
-        
+
         <div>
             </br>
         </div>
-    
