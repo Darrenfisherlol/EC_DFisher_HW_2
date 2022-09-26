@@ -8,7 +8,6 @@
             <div class="divTwo">
                 <div>       
                     Hi <?php echo $_POST["name"]; ?><br>
-
                     <?php
                         function getClass() {
                         ?>
@@ -17,10 +16,14 @@
                         }
                         getClass(); 
                     ?>
-
-                    Your favorite class is <?php echo $_GET["FavoriteClass"]; ?>
-                    
                 </div>
+            </div>
+            <div class="divTwo">
+                <form action="handlepost.php" method="GET">
+                    FavoriteClass: <input type="text" name="FavoriteClass"><br>
+                    <input type="submit">
+                </form>
+
             </div>
         </div>
     </body>

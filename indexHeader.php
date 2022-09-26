@@ -23,7 +23,8 @@
         <div>
             <a class="btn btn-primary" href="index.php"  role="button">Home Page </a> 
             <a class="btn btn-primary" href="handlepost.php"  role="button">Post Page </a> 
-            
+            <a class="btn btn-primary" href="handleget.php"  role="button">Get Page </a> 
+
         </div>
 
         <div>
