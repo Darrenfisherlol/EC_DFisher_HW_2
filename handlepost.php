@@ -18,8 +18,10 @@
                     ?>
                 </div>
             </div>
+
             <div class="divTwo">
-                <form action="handlepost.php" method="GET">
+                </br>
+                <form action="handleget.php" method="GET">
                     FavoriteClass: <input type="text" name="FavoriteClass"><br>
                     <input type="submit">
                 </form>
