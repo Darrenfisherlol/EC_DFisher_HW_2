@@ -17,12 +17,14 @@
                         }
                         getClass(); 
                     ?>
+
                     Your favorite class is <?php echo $_GET["FavoriteClass"]; ?>
+                    Welcome <?php echo $_GET["name"]; ?>!
+                    Your email address is <?php echo $_GET["School"]; ?>
+
                 </div>
             </div>
-           
         </div>
-
     </body>
 </html>
 
