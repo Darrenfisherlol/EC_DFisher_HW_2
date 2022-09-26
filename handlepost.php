@@ -21,6 +21,8 @@
 
             <div class="divTwo">
                 </br>
+                Enter your favorite class for Get php:
+                </br>
                 <form action="handleget.php" method="GET">
                     FavoriteClass: <input type="text" name="FavoriteClass"><br>
                     <input type="submit">

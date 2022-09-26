@@ -1,7 +1,9 @@
 <?php require_once("indexHeader.php")?>
 
 
-
+        <br>
+        Enter for post php:
+        <br>
         <form action="handlepost.php" method="post">
             Name: <input type="text" name="name"><br>
             School: <input type="text" name="School"><br>
