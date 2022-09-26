@@ -17,8 +17,7 @@
                         }
                         getClass(); 
                     ?>
-                    <?php echo "FavoriteClass" . $_GET['FavoriteClass'] . " at " . $_GET['web']; ?>
-                    Your favorite class is: <?php echo $_POST["FavoriteClass"]; ?>            
+                    Your favorite class is <?php echo $_GET["FavoriteClass"]; ?>
                 </div>
             </div>
            
